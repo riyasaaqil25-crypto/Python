@@ -1,0 +1,8 @@
+dad="10th january"
+mom="25th july"
+me="14th july"
+sister="27th november"
+print("My dads birthday is on",dad)
+print("My mums birthday is on",mom)
+print("My birthday is on", me)
+print("My sisters birthday is on",sister)
